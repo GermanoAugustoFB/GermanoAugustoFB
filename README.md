@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Germano
 
-- 🔭 Atualmente procuro estágio para começar a trabalhar na área
 - 😄 Pronouns: ele/dele
 
 <div>
