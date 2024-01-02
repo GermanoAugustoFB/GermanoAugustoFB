@@ -33,5 +33,5 @@ Tools:
 
 IDEs:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![DBeaver](https://img.shields.io/badge/-DBeaver-007ACC?style=flat-square&logo=DBeaver-code&logoColor=white)
+![DBeaver](https://img.shields.io/badge/-DBeaver-black?style=flat-square&logo=DBeaver)
 
