@@ -23,6 +23,7 @@ Frontend
 
 Database:
 ![Oracle](https://img.shields.io/badge/-oracle-black?style=flat-square&logo=oracle)
+![MySql](https://img.shields.io/badge/-Mysql-black?style=flat-square&logo=Mysql)
 
 Tools:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
