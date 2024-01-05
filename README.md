@@ -35,3 +35,13 @@ IDEs:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-black?style=flat-square&logo=DBeaver)
 
+____
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=GermanoAugustoFB&show_icons=true&theme=transparent&border_color=00000000&icon_color=6F34ad&text_color=cccccc)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GermanoAugustoFB&layout=compact&theme=transparent&border_color=00000000&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GermanoAugustoFB&layout=compact&theme=transparent&border_color=00000000&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
