@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Germano Augusto,  I'm a software development intern at Bravo Seviços logísticos.
+I'm Germano Augusto,  I'm a software development at Bravo Seviços logísticos.
 
 
 [![Linkedin: Germano Freitas](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/germano-freitas-2a0217298/)](https://www.linkedin.com/in/germano-freitas-2a0217298/)
