@@ -12,8 +12,7 @@ I am passionate about technology and am always looking to improve my skills by e
 
 [![Linkedin: Germano Freitas](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/germano-freitas-2a0217298/)](https://www.linkedin.com/in/germano-freitas-2a0217298/)
 
-[![Instagram: Germano Freitas](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/germanofb_/)]
-(https://www.instagram.com/germanofb_/)
+[![Instagram: Germano Freitas](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/germanofb_/)](https://www.instagram.com/germanofb_/)
 
 ____
 
