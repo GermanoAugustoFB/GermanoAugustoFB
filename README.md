@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-I'm Germano Augusto,  I'm a software development at Bravo Seviços logísticos.
+💻 Computer Engineering Student | Junior Full Stack Developer
+Currently, I'm a Junior Full Stack Developer, primarily working with Node.js (back-end), Angular (front-end), and Oracle SQL (database). I have experience in creating efficient APIs, system integration, and developing dynamic and intuitive interfaces.
+
+I am passionate about technology and am always looking to improve my skills by exploring best development practices, software architecture, and performance optimization.
+
+📌 Areas of Interest: web and mobile development, cloud computing, artificial intelligence (AI), and software engineering.
+
+🚀 Always open to connections, knowledge sharing, and new opportunities! No matter the role, I'm always eager to learn and contribute to the team!
 
 
 [![Linkedin: Germano Freitas](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/germano-freitas-2a0217298/)](https://www.linkedin.com/in/germano-freitas-2a0217298/)
